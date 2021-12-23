@@ -4,5 +4,3 @@ public class HelloWorld {
   }
 }
 
-happy pongal and happy christmas 
-happy newyear
